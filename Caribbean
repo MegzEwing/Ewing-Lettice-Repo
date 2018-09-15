@@ -1,0 +1,295 @@
+#EXTM3U
+ 
+ 
+#EXTINF:0,
+ 
+ 
+#EXTM3U- Caribbean TV Channels
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", CineStream TV Barbados
+ 
+ 
+http://68.71.42.179/live/livestream1/playlist.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", CBC TV Barbados
+ 
+ 
+http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", CBC TV Channel 8 Barbados
+ 
+ 
+rtmp://184.154.57.230/cbcvideo/cbcstream
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", ZNS TV Bahamas
+ 
+ 
+http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", Ctv Trinidad & Tobago
+ 
+ 
+http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", TV 4 Trinidad & Tobago
+ 
+ 
+rtsp://gisl.live-s.cdn.bitgravity.com/cdn-live/_definst_/gisl/live/feed01?width=720&height=480&AutoPlay=true&nc=1
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
+ 
+ 
+rtmp://162.244.81.145:2163/live//livestream
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
+ 
+ 
+rtmp://162.244.81.145:2163/live/livestream
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", Channel 5 St. Kitts & Nevis
+ 
+ 
+rtmp://162.244.81.145:2163/live//livestream
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", ABS TV Antigua & Barbuda
+ 
+ 
+http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", CNC3 Trinidad & Tobago
+ 
+ 
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", Beyond The Tape Trinidad & Tobago
+ 
+ 
+http://cdn.bimvid.com/TV6/aa6fb73c0054508914f898e3f2d494f5ac964e48_fl9.mp4
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", Jamaica News
+ 
+ 
+http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", TV Jamaica
+ 
+ 
+http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", CNS Channel 6 Guyana
+ 
+ 
+rtmp://184.173.181.2:1935/8262/8262
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", Reggae Entertainment Television
+ 
+ 
+http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO
+ 
+ 
+rtmp://cp101680.live.edgefcs.net:1935/live/tempolive@5028
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", TEMPO (2)
+ 
+ 
+#rtmp://cp101680.live.edgefcs.net:1935/live playpath=tempolive@5028 swfUrl=http://admin.brightcove.com/viewer/us20150212.1539/federatedVideoUI/BrightcovePlayer.swf live=1 pageUrl=http://gottempo.com
+ 
+ 
+#EXTINF:0,#EXTINF:-1 group-title=\"Caribbean Channels\", Barbados Parliament
+ 
+ 
+rtmp://fls.7.c3.audiovideoweb.com/lv/6c3flslive2019
+ 
+ 
+#EXTINF:0,#EXTINF:-1, CineStream TV Barbados
+ 
+ 
+http://68.71.42.179/live/livestream1/playlist.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1, CBC TV Barbados
+ 
+ 
+http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1, CBC TV Channel 8 Barbados
+ 
+ 
+rtmp://184.154.57.230/cbcvideo playpath=cbcstream
+ 
+ 
+#EXTINF:0,#EXTINF:-1, ZNS TV Bahamas
+ 
+ 
+http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+
+<item>
+<title>ZNS TV 13 - Bahamas</title>
+ 
+<link>rtmp://znstv1.sunisp.net:1935/live/zns1</link>
+<link>http://xhouseofassemblyx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<link>rtmp://cp86438.live.edgefcs.net/live/livestream6_96@24307</link>
+<link>http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+<link>rtsp://mobilestr3.livestream.com/livestreamiphone/houseofassembly</link>
+<link>http://bit.do/24VY</link>
+<link>rtsp://mobilestr3.livestream.com/livestreamiphone/znsbahamas</link>
+<link>http://iphone-streaming.ustream.tv/uhls/22681221/streams/live/iphone/playlist.m3u8</link>
+ 
+<thumbnail>
+http://4.bp.blogspot.com/-JRPMkck2KMA/UYW_Cq3kdoI/AAAAAAAAM2Q/QtARfcU4y6o/s1600/zns_header.png
+</thumbnail>
+<fanart></fanart>
+</item>
+ 
+ 
+<item>
+<title>ZNS TV 2 "Parliamentary Channel" - Bahamas</title>
+ 
+<link>rtmp://znstv2.sunisp.net:1935/live/zns2</link>
+<link>rtsp://mobilestr3.livestream.com/livestreamiphone/houseofassembly</link>
+<link>http://xhouseofassemblyx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+ 
+<thumbnail>
+http://4.bp.blogspot.com/-JRPMkck2KMA/UYW_Cq3kdoI/AAAAAAAAM2Q/QtARfcU4y6o/s1600/zns_header.png
+</thumbnail>
+<fanart></fanart>
+</item>
+               
+ 
+<item>
+<title>ZNS TV - Bahamas | (REPLAYS)</title>
+<link>plugin://plugin.video.youtube/channel/UCPCeBf3Uyx_uSaBZehylzPg/</link>
+<thumbnail>
+http://4.bp.blogspot.com/-JRPMkck2KMA/UYW_Cq3kdoI/AAAAAAAAM2Q/QtARfcU4y6o/s1600/zns_header.png
+</thumbnail>
+</item>
+ 
+<item>
+<title>Our TV (NB 12) - Bahamas</title>
+<link>http://208.52.189.121:1935/cablebahamas/smil:ourtv_cablebahamas_streams.smil/playlist.m3u8</link>
+<thumbnail>https://www.cablebahamas.com/wp-content/uploads/2015/02/OURTV-Logo-300x220.jpg</thumbnail><fanart></fanart>
+</item>
+ 
+<item>
+<title>Island Luck TV - Bahamas</title>
+<link>http://hi.duok5.tv:81/iltv/ntsc/index.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/--EFj8WgVOsk/UBcmhDgX7UI/AAAAAAAAAC0/CgZZobhXzRs/s1600/logo.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>Island Luck TV - Bahamas | (REPLAYS)</title>
+<link>plugin://plugin.video.youtube/channel/UC1BN2rEHho7wmM-GEIEm7FA/</link>
+<thumbnail>
+http://4.bp.blogspot.com/--EFj8WgVOsk/UBcmhDgX7UI/AAAAAAAAAC0/CgZZobhXzRs/s1600/logo.png
+</thumbnail>
+</item>
+ 
+<item>
+<title>BTC TV - Bahamas </title>
+<link>
+<link>
+http://cdn.streamcomedia.com:1935/btc/smil:btcstreams.smil/playlist.m3u8
+</link>
+</link>
+<thumbnail>
+https://lh3.googleusercontent.com/-ZIjYtREXjS8/AAAAAAAAAAI/AAAAAAAAA7Q/YWsb3tizHNM/photo.jpg
+</thumbnail>
+<fanart></fanart>
+</item>
+  
+<item>
+<title>Tempo - (Bonus | All Countries)</title>
+<link>
+<link>
+rtmp://cp101680.live.edgefcs.net:1935/live playpath=tempolive@5028 swfUrl=http://admin.brightcove.com/viewer/us20150212.1539/federatedVideoUI/BrightcovePlayer.swf live=1 pageUrl=http://gottempo.com
+</link>
+</link>
+<thumbnail>https://yt3.ggpht.com/-Pejq0k0jCA8/AAAAAAAAAAI/AAAAAAAAAAA/UxuIWQpSPsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+ 
+<item>
+<title>One Caribbean TV - (Bonus | All Countries)</title>
+<link>
+<link>
+http://wicu-lh.akamaihd.net/i/WICU_1369@78350/master.m3u8
+</link>
+</link>
+<thumbnail>
+http://www.tsc-pr.com/wp-content/uploads/2015/06/OneCaribbeanTelevision1-300x300.png
+</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>TROPIK TV - (Bonus | All Countries)</title>
+<link>
+<link>
+http://hls1.livestreamingcdn.com/livecdn838/myStream.sdp/chunklist.m3u8
+</link>
+</link>
+<thumbnail>
+http://tropiknetwork.com/wp-content/uploads/2015/09/TropikTVHeader2.png
+</thumbnail>
+<fanart></fanart>
+</item>
+ 
+ 
+#EXTINF:0,#EXTINF:-1, ABS Television Antigua & Barbuda
+ 
+ 
+http://iphone-streaming.ustream.tv/ustreamVideo/18415531/streams/live/playlist.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1, CBA TV Curaçao
+ 
+ 
+rtmp://cba-television.tectona-host.com:1935/live playpath=cba-television swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.cba2.tv/livestream.html
+ 
+ 
+#EXTINF:0,#EXTINF:-1, NGV TV Jamaica
+ 
+ 
+http://iphone-streaming.ustream.tv/ustreamVideo/7716202/streams/live/playlist.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1, Jamaica News (not a dedicated stream)
+ 
+ 
+http://rjr_flash-lh.akamaihd.net/i/jnn_1@177149/master.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1, TV Jamaica (not a dedicated stream)
+ 
+ 
+http://rjr_flash-lh.akamaihd.net/i/tvj_1@177150/master.m3u8
+ 
+ 
+#EXTINF:0,#EXTINF:-1, Reggae Entertainment Television
+ 
+ 
+http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
+ 
